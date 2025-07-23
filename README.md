@@ -186,6 +186,19 @@ For support or questions:
 - Contact the development team
 - Check the documentation for common questions
 
+## Output:
+
+<img width="1155" height="586" alt="image" src="https://github.com/user-attachments/assets/b26c9ea2-77f9-4686-996c-84677ab5b0a5" />
+<br><br>
+<img width="981" height="889" alt="image" src="https://github.com/user-attachments/assets/bbe3a099-e969-4b1c-8e0d-4cf72afffbfa" />
+<br><br>
+<img width="1027" height="774" alt="image" src="https://github.com/user-attachments/assets/49fac958-2563-43f4-a4bb-5dc1b7f9e5e5" />
+<br><br>
+<img width="1000" height="786" alt="image" src="https://github.com/user-attachments/assets/026b7d1a-64f9-4379-ab8d-25e63c0d22c6" />
+<br><br>
+<img width="1187" height="633" alt="image" src="https://github.com/user-attachments/assets/88f5cd0c-52fe-477e-9bb5-4fa9fc287787" />
+
+
 ---
 
 **Note**: This application is for educational and informational purposes. Always consult healthcare professionals for medical decisions. 
