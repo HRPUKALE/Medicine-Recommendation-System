@@ -1,7 +1,8 @@
 # SmartMed AI Assistant
 
 An intelligent AI-powered pharmaceutical guide that uses comprehensive medical data to provide accurate medicine recommendations, disease detection, and personalized healthcare advice.
-
+ 
+# visit Site : https://medicine-recommendation-system-usin.vercel.app/
 ## 🚀 Features
 
 ### 🤖 AI-Powered Medical Analysis
